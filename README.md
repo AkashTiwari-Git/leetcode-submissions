@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-0-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-1-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -11,6 +11,7 @@
 
 | # | Problem Name | Difficulty | Solutions |
 | :--- | :--- | :--- | :--- |
+| 47 | [Permutations Ii](Medium/0047-permutations-ii/) | `Medium` | [`Java`](Medium/0047-permutations-ii/permutations-ii.java) |
 
 ---
 
