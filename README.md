@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-3-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-4-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -13,6 +13,7 @@
 | :--- | :--- | :--- | :--- |
 | 23 | [Merge K Sorted Lists](Hard/0023-merge-k-sorted-lists/) | `Hard` | [`Java`](Hard/0023-merge-k-sorted-lists/merge-k-sorted-lists.java) |
 | 47 | [Permutations Ii](Medium/0047-permutations-ii/) | `Medium` | [`Java`](Medium/0047-permutations-ii/permutations-ii.java) |
+| 134 | [Gas Station](Medium/0134-gas-station/) | `Medium` | [`Java`](Medium/0134-gas-station/gas-station.java) |
 | 621 | [Task Scheduler](Medium/0621-task-scheduler/) | `Medium` | [`Java`](Medium/0621-task-scheduler/task-scheduler.java) |
 
 ---
