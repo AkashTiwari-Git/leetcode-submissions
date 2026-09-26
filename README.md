@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-5-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-6-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -16,6 +16,7 @@
 | 134 | [Gas Station](Medium/0134-gas-station/) | `Medium` | [`Java`](Medium/0134-gas-station/gas-station.java) |
 | 179 | [Largest Number](Medium/0179-largest-number/) | `Medium` | [`Python`](Medium/0179-largest-number/largest-number.py) |
 | 621 | [Task Scheduler](Medium/0621-task-scheduler/) | `Medium` | [`Java`](Medium/0621-task-scheduler/task-scheduler.java) |
+| 2611 | [Mice And Cheese](Medium/2611-mice-and-cheese/) | `Medium` | [`Java`](Medium/2611-mice-and-cheese/mice-and-cheese.java) |
 
 ---
 
