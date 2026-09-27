@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-8-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-9-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -19,6 +19,7 @@
 | 621 | [Task Scheduler](Medium/0621-task-scheduler/) | `Medium` | [`Java`](Medium/0621-task-scheduler/task-scheduler.java) |
 | 763 | [Partition Labels](Medium/0763-partition-labels/) | `Medium` | [`Java`](Medium/0763-partition-labels/partition-labels.java) |
 | 2611 | [Mice And Cheese](Medium/2611-mice-and-cheese/) | `Medium` | [`Java`](Medium/2611-mice-and-cheese/mice-and-cheese.java) |
+| 4067 | [Longest Subarray With Restricted Pair Sums](Medium/4067-longest-subarray-with-restricted-pair-sums/) | `Medium` | [`Java`](Medium/4067-longest-subarray-with-restricted-pair-sums/longest-subarray-with-restricted-pair-sums.java) |
 
 ---
 
