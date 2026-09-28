@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-9-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-10-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -18,6 +18,7 @@
 | 452 | [Minimum Number Of Arrows To Burst Balloons](Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | `Medium` | [`Java`](Medium/0452-minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.java) |
 | 621 | [Task Scheduler](Medium/0621-task-scheduler/) | `Medium` | [`Java`](Medium/0621-task-scheduler/task-scheduler.java) |
 | 763 | [Partition Labels](Medium/0763-partition-labels/) | `Medium` | [`Java`](Medium/0763-partition-labels/partition-labels.java) |
+| 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
 | 2611 | [Mice And Cheese](Medium/2611-mice-and-cheese/) | `Medium` | [`Java`](Medium/2611-mice-and-cheese/mice-and-cheese.java) |
 | 4067 | [Longest Subarray With Restricted Pair Sums](Medium/4067-longest-subarray-with-restricted-pair-sums/) | `Medium` | [`Java`](Medium/4067-longest-subarray-with-restricted-pair-sums/longest-subarray-with-restricted-pair-sums.java) |
 
