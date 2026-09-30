@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-12-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-13-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -18,6 +18,7 @@
 | 402 | [Remove K Digits](Medium/0402-remove-k-digits/) | `Medium` | [`Java`](Medium/0402-remove-k-digits/remove-k-digits.java) |
 | 452 | [Minimum Number Of Arrows To Burst Balloons](Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | `Medium` | [`Java`](Medium/0452-minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.java) |
 | 621 | [Task Scheduler](Medium/0621-task-scheduler/) | `Medium` | [`Java`](Medium/0621-task-scheduler/task-scheduler.java) |
+| 670 | [Maximum Swap](Medium/0670-maximum-swap/) | `Medium` | [`Java`](Medium/0670-maximum-swap/maximum-swap.java) |
 | 763 | [Partition Labels](Medium/0763-partition-labels/) | `Medium` | [`Java`](Medium/0763-partition-labels/partition-labels.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
 | 1614 | [Maximum Nesting Depth Of The Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) | `Easy` | [`Java`](Easy/1614-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.java) |
