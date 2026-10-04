@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-14-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-16-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -11,8 +11,10 @@
 
 | # | Problem Name | Difficulty | Solutions |
 | :--- | :--- | :--- | :--- |
+| 20 | [Valid Parentheses](Easy/0020-valid-parentheses/) | `Easy` | [`Java`](Easy/0020-valid-parentheses/valid-parentheses.java) |
 | 23 | [Merge K Sorted Lists](Hard/0023-merge-k-sorted-lists/) | `Hard` | [`Java`](Hard/0023-merge-k-sorted-lists/merge-k-sorted-lists.java) |
 | 47 | [Permutations Ii](Medium/0047-permutations-ii/) | `Medium` | [`Java`](Medium/0047-permutations-ii/permutations-ii.java) |
+| 77 | [Combinations](Medium/0077-combinations/) | `Medium` | [`Java`](Medium/0077-combinations/combinations.java) |
 | 134 | [Gas Station](Medium/0134-gas-station/) | `Medium` | [`Java`](Medium/0134-gas-station/gas-station.java) |
 | 179 | [Largest Number](Medium/0179-largest-number/) | `Medium` | [`Python`](Medium/0179-largest-number/largest-number.py) |
 | 402 | [Remove K Digits](Medium/0402-remove-k-digits/) | `Medium` | [`Java`](Medium/0402-remove-k-digits/remove-k-digits.java) |
