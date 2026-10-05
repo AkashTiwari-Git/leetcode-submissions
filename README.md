@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-16-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-17-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -19,6 +19,7 @@
 | 179 | [Largest Number](Medium/0179-largest-number/) | `Medium` | [`Python`](Medium/0179-largest-number/largest-number.py) |
 | 402 | [Remove K Digits](Medium/0402-remove-k-digits/) | `Medium` | [`Java`](Medium/0402-remove-k-digits/remove-k-digits.java) |
 | 452 | [Minimum Number Of Arrows To Burst Balloons](Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | `Medium` | [`Java`](Medium/0452-minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.java) |
+| 581 | [Shortest Unsorted Continuous Subarray](Medium/0581-shortest-unsorted-continuous-subarray/) | `Medium` | [`Java`](Medium/0581-shortest-unsorted-continuous-subarray/shortest-unsorted-continuous-subarray.java) |
 | 621 | [Task Scheduler](Medium/0621-task-scheduler/) | `Medium` | [`Java`](Medium/0621-task-scheduler/task-scheduler.java) |
 | 670 | [Maximum Swap](Medium/0670-maximum-swap/) | `Medium` | [`Java`](Medium/0670-maximum-swap/maximum-swap.java) |
 | 763 | [Partition Labels](Medium/0763-partition-labels/) | `Medium` | [`Java`](Medium/0763-partition-labels/partition-labels.java) |
