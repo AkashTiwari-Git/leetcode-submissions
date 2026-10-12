@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-19-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-20-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -24,6 +24,7 @@
 | 581 | [Shortest Unsorted Continuous Subarray](Medium/0581-shortest-unsorted-continuous-subarray/) | `Medium` | [`Java`](Medium/0581-shortest-unsorted-continuous-subarray/shortest-unsorted-continuous-subarray.java) |
 | 621 | [Task Scheduler](Medium/0621-task-scheduler/) | `Medium` | [`Java`](Medium/0621-task-scheduler/task-scheduler.java) |
 | 670 | [Maximum Swap](Medium/0670-maximum-swap/) | `Medium` | [`Java`](Medium/0670-maximum-swap/maximum-swap.java) |
+| 733 | [Flood Fill](Easy/0733-flood-fill/) | `Easy` | [`Java`](Easy/0733-flood-fill/flood-fill.java) |
 | 763 | [Partition Labels](Medium/0763-partition-labels/) | `Medium` | [`Java`](Medium/0763-partition-labels/partition-labels.java) |
 | 881 | [Boats To Save People](Medium/0881-boats-to-save-people/) | `Medium` | [`Java`](Medium/0881-boats-to-save-people/boats-to-save-people.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
