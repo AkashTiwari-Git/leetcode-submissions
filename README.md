@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-20-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-21-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -27,6 +27,7 @@
 | 733 | [Flood Fill](Easy/0733-flood-fill/) | `Easy` | [`Java`](Easy/0733-flood-fill/flood-fill.java) |
 | 763 | [Partition Labels](Medium/0763-partition-labels/) | `Medium` | [`Java`](Medium/0763-partition-labels/partition-labels.java) |
 | 881 | [Boats To Save People](Medium/0881-boats-to-save-people/) | `Medium` | [`Java`](Medium/0881-boats-to-save-people/boats-to-save-people.java) |
+| 994 | [Rotting Oranges](Medium/0994-rotting-oranges/) | `Medium` | [`Java`](Medium/0994-rotting-oranges/rotting-oranges.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
 | 1614 | [Maximum Nesting Depth Of The Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) | `Easy` | [`Java`](Easy/1614-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.java) |
 | 2611 | [Mice And Cheese](Medium/2611-mice-and-cheese/) | `Medium` | [`Java`](Medium/2611-mice-and-cheese/mice-and-cheese.java) |
