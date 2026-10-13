@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-21-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-22-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -30,6 +30,7 @@
 | 994 | [Rotting Oranges](Medium/0994-rotting-oranges/) | `Medium` | [`Java`](Medium/0994-rotting-oranges/rotting-oranges.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
 | 1614 | [Maximum Nesting Depth Of The Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) | `Easy` | [`Java`](Easy/1614-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.java) |
+| 1971 | [Find If Path Exists In Graph](Easy/1971-find-if-path-exists-in-graph/) | `Easy` | [`Java`](Easy/1971-find-if-path-exists-in-graph/find-if-path-exists-in-graph.java) |
 | 2611 | [Mice And Cheese](Medium/2611-mice-and-cheese/) | `Medium` | [`Java`](Medium/2611-mice-and-cheese/mice-and-cheese.java) |
 | 4067 | [Longest Subarray With Restricted Pair Sums](Medium/4067-longest-subarray-with-restricted-pair-sums/) | `Medium` | [`Java`](Medium/4067-longest-subarray-with-restricted-pair-sums/longest-subarray-with-restricted-pair-sums.java) |
 
