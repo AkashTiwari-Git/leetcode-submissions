@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-25-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-26-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -31,6 +31,7 @@
 | 841 | [Keys And Rooms](Medium/0841-keys-and-rooms/) | `Medium` | [`Java`](Medium/0841-keys-and-rooms/keys-and-rooms.java) |
 | 881 | [Boats To Save People](Medium/0881-boats-to-save-people/) | `Medium` | [`Java`](Medium/0881-boats-to-save-people/boats-to-save-people.java) |
 | 994 | [Rotting Oranges](Medium/0994-rotting-oranges/) | `Medium` | [`Java`](Medium/0994-rotting-oranges/rotting-oranges.java) |
+| 1020 | [Number Of Enclaves](Medium/1020-number-of-enclaves/) | `Medium` | [`Java`](Medium/1020-number-of-enclaves/number-of-enclaves.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
 | 1614 | [Maximum Nesting Depth Of The Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) | `Easy` | [`Java`](Easy/1614-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.java) |
 | 1971 | [Find If Path Exists In Graph](Easy/1971-find-if-path-exists-in-graph/) | `Easy` | [`Java`](Easy/1971-find-if-path-exists-in-graph/find-if-path-exists-in-graph.java) |
