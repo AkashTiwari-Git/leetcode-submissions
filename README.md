@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-33-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-34-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -38,6 +38,7 @@
 | 886 | [Possible Bipartition](Medium/0886-possible-bipartition/) | `Medium` | [`Java`](Medium/0886-possible-bipartition/possible-bipartition.java) |
 | 994 | [Rotting Oranges](Medium/0994-rotting-oranges/) | `Medium` | [`Java`](Medium/0994-rotting-oranges/rotting-oranges.java) |
 | 1020 | [Number Of Enclaves](Medium/1020-number-of-enclaves/) | `Medium` | [`Java`](Medium/1020-number-of-enclaves/number-of-enclaves.java) |
+| 1091 | [Shortest Path In Binary Matrix](Medium/1091-shortest-path-in-binary-matrix/) | `Medium` | [`Java`](Medium/1091-shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
 | 1466 | [Reorder Routes To Make All Paths Lead To The City Zero](Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | `Medium` | [`Java`](Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.java) |
 | 1614 | [Maximum Nesting Depth Of The Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) | `Easy` | [`Java`](Easy/1614-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.java) |
