@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-34-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-35-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -29,6 +29,7 @@
 | 621 | [Task Scheduler](Medium/0621-task-scheduler/) | `Medium` | [`Java`](Medium/0621-task-scheduler/task-scheduler.java) |
 | 670 | [Maximum Swap](Medium/0670-maximum-swap/) | `Medium` | [`Java`](Medium/0670-maximum-swap/maximum-swap.java) |
 | 733 | [Flood Fill](Easy/0733-flood-fill/) | `Easy` | [`Java`](Easy/0733-flood-fill/flood-fill.java) |
+| 743 | [Network Delay Time](Medium/0743-network-delay-time/) | `Medium` | [`Java`](Medium/0743-network-delay-time/network-delay-time.java) |
 | 763 | [Partition Labels](Medium/0763-partition-labels/) | `Medium` | [`Java`](Medium/0763-partition-labels/partition-labels.java) |
 | 785 | [Is Graph Bipartite](Medium/0785-is-graph-bipartite/) | `Medium` | [`Java`](Medium/0785-is-graph-bipartite/is-graph-bipartite.java) |
 | 797 | [All Paths From Source To Target](Medium/0797-all-paths-from-source-to-target/) | `Medium` | [`Java`](Medium/0797-all-paths-from-source-to-target/all-paths-from-source-to-target.java) |
