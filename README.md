@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-35-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-36-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -42,6 +42,7 @@
 | 1091 | [Shortest Path In Binary Matrix](Medium/1091-shortest-path-in-binary-matrix/) | `Medium` | [`Java`](Medium/1091-shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
 | 1466 | [Reorder Routes To Make All Paths Lead To The City Zero](Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | `Medium` | [`Java`](Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.java) |
+| 1514 | [Path With Maximum Probability](Medium/1514-path-with-maximum-probability/) | `Medium` | [`Java`](Medium/1514-path-with-maximum-probability/path-with-maximum-probability.java) |
 | 1614 | [Maximum Nesting Depth Of The Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) | `Easy` | [`Java`](Easy/1614-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.java) |
 | 1971 | [Find If Path Exists In Graph](Easy/1971-find-if-path-exists-in-graph/) | `Easy` | [`Java`](Easy/1971-find-if-path-exists-in-graph/find-if-path-exists-in-graph.java) |
 | 2611 | [Mice And Cheese](Medium/2611-mice-and-cheese/) | `Medium` | [`Java`](Medium/2611-mice-and-cheese/mice-and-cheese.java) |
