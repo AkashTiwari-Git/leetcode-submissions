@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-38-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-39-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -32,6 +32,7 @@
 | 743 | [Network Delay Time](Medium/0743-network-delay-time/) | `Medium` | [`Java`](Medium/0743-network-delay-time/network-delay-time.java) |
 | 763 | [Partition Labels](Medium/0763-partition-labels/) | `Medium` | [`Java`](Medium/0763-partition-labels/partition-labels.java) |
 | 785 | [Is Graph Bipartite](Medium/0785-is-graph-bipartite/) | `Medium` | [`Java`](Medium/0785-is-graph-bipartite/is-graph-bipartite.java) |
+| 787 | [Cheapest Flights Within K Stops](Medium/0787-cheapest-flights-within-k-stops/) | `Medium` | [`Java`](Medium/0787-cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.java) |
 | 797 | [All Paths From Source To Target](Medium/0797-all-paths-from-source-to-target/) | `Medium` | [`Java`](Medium/0797-all-paths-from-source-to-target/all-paths-from-source-to-target.java) |
 | 802 | [Find Eventual Safe States](Medium/0802-find-eventual-safe-states/) | `Medium` | [`Java`](Medium/0802-find-eventual-safe-states/find-eventual-safe-states.java) |
 | 841 | [Keys And Rooms](Medium/0841-keys-and-rooms/) | `Medium` | [`Java`](Medium/0841-keys-and-rooms/keys-and-rooms.java) |
