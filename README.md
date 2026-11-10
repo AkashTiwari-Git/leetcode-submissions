@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-43-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-44-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -37,6 +37,7 @@
 | 787 | [Cheapest Flights Within K Stops](Medium/0787-cheapest-flights-within-k-stops/) | `Medium` | [`Java`](Medium/0787-cheapest-flights-within-k-stops/cheapest-flights-within-k-stops.java) |
 | 797 | [All Paths From Source To Target](Medium/0797-all-paths-from-source-to-target/) | `Medium` | [`Java`](Medium/0797-all-paths-from-source-to-target/all-paths-from-source-to-target.java) |
 | 802 | [Find Eventual Safe States](Medium/0802-find-eventual-safe-states/) | `Medium` | [`Java`](Medium/0802-find-eventual-safe-states/find-eventual-safe-states.java) |
+| 827 | [Making A Large Island](Hard/0827-making-a-large-island/) | `Hard` | [`Java`](Hard/0827-making-a-large-island/making-a-large-island.java) |
 | 841 | [Keys And Rooms](Medium/0841-keys-and-rooms/) | `Medium` | [`Java`](Medium/0841-keys-and-rooms/keys-and-rooms.java) |
 | 881 | [Boats To Save People](Medium/0881-boats-to-save-people/) | `Medium` | [`Java`](Medium/0881-boats-to-save-people/boats-to-save-people.java) |
 | 886 | [Possible Bipartition](Medium/0886-possible-bipartition/) | `Medium` | [`Java`](Medium/0886-possible-bipartition/possible-bipartition.java) |
