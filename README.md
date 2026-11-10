@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-40-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-42-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -22,6 +22,7 @@
 | 130 | [Surrounded Regions](Medium/0130-surrounded-regions/) | `Medium` | [`Java`](Medium/0130-surrounded-regions/surrounded-regions.java) |
 | 134 | [Gas Station](Medium/0134-gas-station/) | `Medium` | [`Java`](Medium/0134-gas-station/gas-station.java) |
 | 179 | [Largest Number](Medium/0179-largest-number/) | `Medium` | [`Python`](Medium/0179-largest-number/largest-number.py) |
+| 399 | [Evaluate Division](Medium/0399-evaluate-division/) | `Medium` | [`Java`](Medium/0399-evaluate-division/evaluate-division.java) |
 | 402 | [Remove K Digits](Medium/0402-remove-k-digits/) | `Medium` | [`Java`](Medium/0402-remove-k-digits/remove-k-digits.java) |
 | 452 | [Minimum Number Of Arrows To Burst Balloons](Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | `Medium` | [`Java`](Medium/0452-minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.java) |
 | 542 | [01 Matrix](Medium/0542-01-matrix/) | `Medium` | [`Java`](Medium/0542-01-matrix/01-matrix.java) |
@@ -41,6 +42,7 @@
 | 994 | [Rotting Oranges](Medium/0994-rotting-oranges/) | `Medium` | [`Java`](Medium/0994-rotting-oranges/rotting-oranges.java) |
 | 1020 | [Number Of Enclaves](Medium/1020-number-of-enclaves/) | `Medium` | [`Java`](Medium/1020-number-of-enclaves/number-of-enclaves.java) |
 | 1091 | [Shortest Path In Binary Matrix](Medium/1091-shortest-path-in-binary-matrix/) | `Medium` | [`Java`](Medium/1091-shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.java) |
+| 1319 | [Number Of Operations To Make Network Connected](Medium/1319-number-of-operations-to-make-network-connected/) | `Medium` | [`Java`](Medium/1319-number-of-operations-to-make-network-connected/number-of-operations-to-make-network-connected.java) |
 | 1334 | [Find The City With The Smallest Number Of Neighbors At A Threshold Distance](Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | `Medium` | [`Java`](Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
 | 1462 | [Course Schedule Iv](Medium/1462-course-schedule-iv/) | `Medium` | [`Java`](Medium/1462-course-schedule-iv/course-schedule-iv.java) |
