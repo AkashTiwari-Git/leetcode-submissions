@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-44-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-45-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -44,6 +44,7 @@
 | 994 | [Rotting Oranges](Medium/0994-rotting-oranges/) | `Medium` | [`Java`](Medium/0994-rotting-oranges/rotting-oranges.java) |
 | 1020 | [Number Of Enclaves](Medium/1020-number-of-enclaves/) | `Medium` | [`Java`](Medium/1020-number-of-enclaves/number-of-enclaves.java) |
 | 1091 | [Shortest Path In Binary Matrix](Medium/1091-shortest-path-in-binary-matrix/) | `Medium` | [`Java`](Medium/1091-shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.java) |
+| 1192 | [Critical Connections In A Network](Hard/1192-critical-connections-in-a-network/) | `Hard` | [`Java`](Hard/1192-critical-connections-in-a-network/critical-connections-in-a-network.java) |
 | 1319 | [Number Of Operations To Make Network Connected](Medium/1319-number-of-operations-to-make-network-connected/) | `Medium` | [`Java`](Medium/1319-number-of-operations-to-make-network-connected/number-of-operations-to-make-network-connected.java) |
 | 1334 | [Find The City With The Smallest Number Of Neighbors At A Threshold Distance](Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | `Medium` | [`Java`](Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
