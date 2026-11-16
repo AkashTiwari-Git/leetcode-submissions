@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-46-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-47-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -23,6 +23,7 @@
 | 134 | [Gas Station](Medium/0134-gas-station/) | `Medium` | [`Java`](Medium/0134-gas-station/gas-station.java) |
 | 179 | [Largest Number](Medium/0179-largest-number/) | `Medium` | [`Python`](Medium/0179-largest-number/largest-number.py) |
 | 198 | [House Robber](Medium/0198-house-robber/) | `Medium` | [`Java`](Medium/0198-house-robber/house-robber.java) |
+| 213 | [House Robber Ii](Medium/0213-house-robber-ii/) | `Medium` | [`Java`](Medium/0213-house-robber-ii/house-robber-ii.java) |
 | 399 | [Evaluate Division](Medium/0399-evaluate-division/) | `Medium` | [`Java`](Medium/0399-evaluate-division/evaluate-division.java) |
 | 402 | [Remove K Digits](Medium/0402-remove-k-digits/) | `Medium` | [`Java`](Medium/0402-remove-k-digits/remove-k-digits.java) |
 | 452 | [Minimum Number Of Arrows To Burst Balloons](Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | `Medium` | [`Java`](Medium/0452-minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.java) |
