@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-49-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-50-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -17,6 +17,7 @@
 | 48 | [Rotate Image](Medium/0048-rotate-image/) | `Medium` | [`Java`](Medium/0048-rotate-image/rotate-image.java) |
 | 62 | [Unique Paths](Medium/0062-unique-paths/) | `Medium` | [`Java`](Medium/0062-unique-paths/unique-paths.java) |
 | 63 | [Unique Paths Ii](Medium/0063-unique-paths-ii/) | `Medium` | [`Java`](Medium/0063-unique-paths-ii/unique-paths-ii.java) |
+| 64 | [Minimum Path Sum](Medium/0064-minimum-path-sum/) | `Medium` | [`Java`](Medium/0064-minimum-path-sum/minimum-path-sum.java) |
 | 77 | [Combinations](Medium/0077-combinations/) | `Medium` | [`Java`](Medium/0077-combinations/combinations.java) |
 | 99 | [Recover Binary Search Tree](Medium/0099-recover-binary-search-tree/) | `Medium` | [`Java`](Medium/0099-recover-binary-search-tree/recover-binary-search-tree.java) |
 | 126 | [Word Ladder Ii](Hard/0126-word-ladder-ii/) | `Hard` | [`Java`](Hard/0126-word-ladder-ii/word-ladder-ii.java) |
