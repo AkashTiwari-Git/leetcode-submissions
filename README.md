@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-54-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-55-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -22,6 +22,7 @@
 | 99 | [Recover Binary Search Tree](Medium/0099-recover-binary-search-tree/) | `Medium` | [`Java`](Medium/0099-recover-binary-search-tree/recover-binary-search-tree.java) |
 | 118 | [Pascals Triangle](Easy/0118-pascals-triangle/) | `Easy` | [`Java`](Easy/0118-pascals-triangle/pascals-triangle.java) |
 | 119 | [Pascals Triangle Ii](Easy/0119-pascals-triangle-ii/) | `Easy` | [`Java`](Easy/0119-pascals-triangle-ii/pascals-triangle-ii.java) |
+| 120 | [Triangle](Medium/0120-triangle/) | `Medium` | [`Java`](Medium/0120-triangle/triangle.java) |
 | 126 | [Word Ladder Ii](Hard/0126-word-ladder-ii/) | `Hard` | [`Java`](Hard/0126-word-ladder-ii/word-ladder-ii.java) |
 | 127 | [Word Ladder](Hard/0127-word-ladder/) | `Hard` | [`Java`](Hard/0127-word-ladder/word-ladder.java) |
 | 130 | [Surrounded Regions](Medium/0130-surrounded-regions/) | `Medium` | [`Java`](Medium/0130-surrounded-regions/surrounded-regions.java) |
