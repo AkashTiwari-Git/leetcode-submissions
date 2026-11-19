@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-55-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-56-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -50,6 +50,7 @@
 | 841 | [Keys And Rooms](Medium/0841-keys-and-rooms/) | `Medium` | [`Java`](Medium/0841-keys-and-rooms/keys-and-rooms.java) |
 | 881 | [Boats To Save People](Medium/0881-boats-to-save-people/) | `Medium` | [`Java`](Medium/0881-boats-to-save-people/boats-to-save-people.java) |
 | 886 | [Possible Bipartition](Medium/0886-possible-bipartition/) | `Medium` | [`Java`](Medium/0886-possible-bipartition/possible-bipartition.java) |
+| 931 | [Minimum Falling Path Sum](Medium/0931-minimum-falling-path-sum/) | `Medium` | [`Java`](Medium/0931-minimum-falling-path-sum/minimum-falling-path-sum.java) |
 | 994 | [Rotting Oranges](Medium/0994-rotting-oranges/) | `Medium` | [`Java`](Medium/0994-rotting-oranges/rotting-oranges.java) |
 | 1020 | [Number Of Enclaves](Medium/1020-number-of-enclaves/) | `Medium` | [`Java`](Medium/1020-number-of-enclaves/number-of-enclaves.java) |
 | 1091 | [Shortest Path In Binary Matrix](Medium/1091-shortest-path-in-binary-matrix/) | `Medium` | [`Java`](Medium/1091-shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.java) |
