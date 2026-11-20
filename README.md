@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-57-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-58-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -61,6 +61,7 @@
 | 1334 | [Find The City With The Smallest Number Of Neighbors At A Threshold Distance](Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | `Medium` | [`Java`](Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java) |
 | 1405 | [Longest Happy String](Medium/1405-longest-happy-string/) | `Medium` | [`Java`](Medium/1405-longest-happy-string/longest-happy-string.java) |
 | 1462 | [Course Schedule Iv](Medium/1462-course-schedule-iv/) | `Medium` | [`Java`](Medium/1462-course-schedule-iv/course-schedule-iv.java) |
+| 1463 | [Cherry Pickup Ii](Hard/1463-cherry-pickup-ii/) | `Hard` | [`Java`](Hard/1463-cherry-pickup-ii/cherry-pickup-ii.java) |
 | 1466 | [Reorder Routes To Make All Paths Lead To The City Zero](Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | `Medium` | [`Java`](Medium/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/reorder-routes-to-make-all-paths-lead-to-the-city-zero.java) |
 | 1514 | [Path With Maximum Probability](Medium/1514-path-with-maximum-probability/) | `Medium` | [`Java`](Medium/1514-path-with-maximum-probability/path-with-maximum-probability.java) |
 | 1614 | [Maximum Nesting Depth Of The Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) | `Easy` | [`Java`](Easy/1614-maximum-nesting-depth-of-the-parentheses/maximum-nesting-depth-of-the-parentheses.java) |
