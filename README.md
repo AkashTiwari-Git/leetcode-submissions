@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-58-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-60-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -33,6 +33,7 @@
 | 322 | [Coin Change](Medium/0322-coin-change/) | `Medium` | [`Java`](Medium/0322-coin-change/coin-change.java) |
 | 399 | [Evaluate Division](Medium/0399-evaluate-division/) | `Medium` | [`Java`](Medium/0399-evaluate-division/evaluate-division.java) |
 | 402 | [Remove K Digits](Medium/0402-remove-k-digits/) | `Medium` | [`Java`](Medium/0402-remove-k-digits/remove-k-digits.java) |
+| 416 | [Partition Equal Subset Sum](Medium/0416-partition-equal-subset-sum/) | `Medium` | [`Java`](Medium/0416-partition-equal-subset-sum/partition-equal-subset-sum.java) |
 | 452 | [Minimum Number Of Arrows To Burst Balloons](Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | `Medium` | [`Java`](Medium/0452-minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.java) |
 | 542 | [01 Matrix](Medium/0542-01-matrix/) | `Medium` | [`Java`](Medium/0542-01-matrix/01-matrix.java) |
 | 581 | [Shortest Unsorted Continuous Subarray](Medium/0581-shortest-unsorted-continuous-subarray/) | `Medium` | [`Java`](Medium/0581-shortest-unsorted-continuous-subarray/shortest-unsorted-continuous-subarray.java) |
@@ -54,6 +55,7 @@
 | 931 | [Minimum Falling Path Sum](Medium/0931-minimum-falling-path-sum/) | `Medium` | [`Java`](Medium/0931-minimum-falling-path-sum/minimum-falling-path-sum.java) |
 | 994 | [Rotting Oranges](Medium/0994-rotting-oranges/) | `Medium` | [`Java`](Medium/0994-rotting-oranges/rotting-oranges.java) |
 | 1020 | [Number Of Enclaves](Medium/1020-number-of-enclaves/) | `Medium` | [`Java`](Medium/1020-number-of-enclaves/number-of-enclaves.java) |
+| 1049 | [Last Stone Weight Ii](Medium/1049-last-stone-weight-ii/) | `Medium` | [`Java`](Medium/1049-last-stone-weight-ii/last-stone-weight-ii.java) |
 | 1091 | [Shortest Path In Binary Matrix](Medium/1091-shortest-path-in-binary-matrix/) | `Medium` | [`Java`](Medium/1091-shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.java) |
 | 1137 | [N Th Tribonacci Number](Easy/1137-n-th-tribonacci-number/) | `Easy` | [`Java`](Easy/1137-n-th-tribonacci-number/n-th-tribonacci-number.java) |
 | 1192 | [Critical Connections In A Network](Hard/1192-critical-connections-in-a-network/) | `Hard` | [`Java`](Hard/1192-critical-connections-in-a-network/critical-connections-in-a-network.java) |
