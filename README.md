@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-61-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-62-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -59,6 +59,7 @@
 | 1049 | [Last Stone Weight Ii](Medium/1049-last-stone-weight-ii/) | `Medium` | [`Java`](Medium/1049-last-stone-weight-ii/last-stone-weight-ii.java) |
 | 1091 | [Shortest Path In Binary Matrix](Medium/1091-shortest-path-in-binary-matrix/) | `Medium` | [`Java`](Medium/1091-shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.java) |
 | 1137 | [N Th Tribonacci Number](Easy/1137-n-th-tribonacci-number/) | `Easy` | [`Java`](Easy/1137-n-th-tribonacci-number/n-th-tribonacci-number.java) |
+| 1143 | [Longest Common Subsequence](Medium/1143-longest-common-subsequence/) | `Medium` | [`Java`](Medium/1143-longest-common-subsequence/longest-common-subsequence.java) |
 | 1192 | [Critical Connections In A Network](Hard/1192-critical-connections-in-a-network/) | `Hard` | [`Java`](Hard/1192-critical-connections-in-a-network/critical-connections-in-a-network.java) |
 | 1319 | [Number Of Operations To Make Network Connected](Medium/1319-number-of-operations-to-make-network-connected/) | `Medium` | [`Java`](Medium/1319-number-of-operations-to-make-network-connected/number-of-operations-to-make-network-connected.java) |
 | 1334 | [Find The City With The Smallest Number Of Neighbors At A Threshold Distance](Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | `Medium` | [`Java`](Medium/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.java) |
