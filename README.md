@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-63-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-64-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -59,6 +59,7 @@
 | 1020 | [Number Of Enclaves](Medium/1020-number-of-enclaves/) | `Medium` | [`Java`](Medium/1020-number-of-enclaves/number-of-enclaves.java) |
 | 1049 | [Last Stone Weight Ii](Medium/1049-last-stone-weight-ii/) | `Medium` | [`Java`](Medium/1049-last-stone-weight-ii/last-stone-weight-ii.java) |
 | 1091 | [Shortest Path In Binary Matrix](Medium/1091-shortest-path-in-binary-matrix/) | `Medium` | [`Java`](Medium/1091-shortest-path-in-binary-matrix/shortest-path-in-binary-matrix.java) |
+| 1092 | [Shortest Common Supersequence](Hard/1092-shortest-common-supersequence/) | `Hard` | [`Java`](Hard/1092-shortest-common-supersequence/shortest-common-supersequence.java) |
 | 1137 | [N Th Tribonacci Number](Easy/1137-n-th-tribonacci-number/) | `Easy` | [`Java`](Easy/1137-n-th-tribonacci-number/n-th-tribonacci-number.java) |
 | 1143 | [Longest Common Subsequence](Medium/1143-longest-common-subsequence/) | `Medium` | [`Java`](Medium/1143-longest-common-subsequence/longest-common-subsequence.java) |
 | 1192 | [Critical Connections In A Network](Hard/1192-critical-connections-in-a-network/) | `Hard` | [`Java`](Hard/1192-critical-connections-in-a-network/critical-connections-in-a-network.java) |
