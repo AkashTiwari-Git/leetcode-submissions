@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-62-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-63-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -36,6 +36,7 @@
 | 416 | [Partition Equal Subset Sum](Medium/0416-partition-equal-subset-sum/) | `Medium` | [`Java`](Medium/0416-partition-equal-subset-sum/partition-equal-subset-sum.java) |
 | 452 | [Minimum Number Of Arrows To Burst Balloons](Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | `Medium` | [`Java`](Medium/0452-minimum-number-of-arrows-to-burst-balloons/minimum-number-of-arrows-to-burst-balloons.java) |
 | 494 | [Target Sum](Medium/0494-target-sum/) | `Medium` | [`Java`](Medium/0494-target-sum/target-sum.java) |
+| 509 | [Fibonacci Number](Easy/0509-fibonacci-number/) | `Easy` | [`Java`](Easy/0509-fibonacci-number/fibonacci-number.java) |
 | 542 | [01 Matrix](Medium/0542-01-matrix/) | `Medium` | [`Java`](Medium/0542-01-matrix/01-matrix.java) |
 | 581 | [Shortest Unsorted Continuous Subarray](Medium/0581-shortest-unsorted-continuous-subarray/) | `Medium` | [`Java`](Medium/0581-shortest-unsorted-continuous-subarray/shortest-unsorted-continuous-subarray.java) |
 | 621 | [Task Scheduler](Medium/0621-task-scheduler/) | `Medium` | [`Java`](Medium/0621-task-scheduler/task-scheduler.java) |
