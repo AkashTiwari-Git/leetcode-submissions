@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-64-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-65-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -20,6 +20,7 @@
 | 64 | [Minimum Path Sum](Medium/0064-minimum-path-sum/) | `Medium` | [`Java`](Medium/0064-minimum-path-sum/minimum-path-sum.java) |
 | 77 | [Combinations](Medium/0077-combinations/) | `Medium` | [`Java`](Medium/0077-combinations/combinations.java) |
 | 99 | [Recover Binary Search Tree](Medium/0099-recover-binary-search-tree/) | `Medium` | [`Java`](Medium/0099-recover-binary-search-tree/recover-binary-search-tree.java) |
+| 115 | [Distinct Subsequences](Hard/0115-distinct-subsequences/) | `Hard` | [`Java`](Hard/0115-distinct-subsequences/distinct-subsequences.java) |
 | 118 | [Pascals Triangle](Easy/0118-pascals-triangle/) | `Easy` | [`Java`](Easy/0118-pascals-triangle/pascals-triangle.java) |
 | 119 | [Pascals Triangle Ii](Easy/0119-pascals-triangle-ii/) | `Easy` | [`Java`](Easy/0119-pascals-triangle-ii/pascals-triangle-ii.java) |
 | 120 | [Triangle](Medium/0120-triangle/) | `Medium` | [`Java`](Medium/0120-triangle/triangle.java) |
