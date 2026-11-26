@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-69-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-70-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -28,6 +28,7 @@
 | 120 | [Triangle](Medium/0120-triangle/) | `Medium` | [`Java`](Medium/0120-triangle/triangle.java) |
 | 121 | [Best Time To Buy And Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) | `Easy` | [`Java`](Easy/0121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java) |
 | 122 | [Best Time To Buy And Sell Stock Ii](Medium/0122-best-time-to-buy-and-sell-stock-ii/) | `Medium` | [`Java`](Medium/0122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.java) |
+| 123 | [Best Time To Buy And Sell Stock Iii](Hard/0123-best-time-to-buy-and-sell-stock-iii/) | `Hard` | [`Java`](Hard/0123-best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.java) |
 | 126 | [Word Ladder Ii](Hard/0126-word-ladder-ii/) | `Hard` | [`Java`](Hard/0126-word-ladder-ii/word-ladder-ii.java) |
 | 127 | [Word Ladder](Hard/0127-word-ladder/) | `Hard` | [`Java`](Hard/0127-word-ladder/word-ladder.java) |
 | 130 | [Surrounded Regions](Medium/0130-surrounded-regions/) | `Medium` | [`Java`](Medium/0130-surrounded-regions/surrounded-regions.java) |
