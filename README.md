@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/AkashTiwari-Git/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-66-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-67-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -13,6 +13,7 @@
 | :--- | :--- | :--- | :--- |
 | 20 | [Valid Parentheses](Easy/0020-valid-parentheses/) | `Easy` | [`Java`](Easy/0020-valid-parentheses/valid-parentheses.java) |
 | 23 | [Merge K Sorted Lists](Hard/0023-merge-k-sorted-lists/) | `Hard` | [`Java`](Hard/0023-merge-k-sorted-lists/merge-k-sorted-lists.java) |
+| 44 | [Wildcard Matching](Hard/0044-wildcard-matching/) | `Hard` | [`Java`](Hard/0044-wildcard-matching/wildcard-matching.java) |
 | 47 | [Permutations Ii](Medium/0047-permutations-ii/) | `Medium` | [`Java`](Medium/0047-permutations-ii/permutations-ii.java) |
 | 48 | [Rotate Image](Medium/0048-rotate-image/) | `Medium` | [`Java`](Medium/0048-rotate-image/rotate-image.java) |
 | 62 | [Unique Paths](Medium/0062-unique-paths/) | `Medium` | [`Java`](Medium/0062-unique-paths/unique-paths.java) |
